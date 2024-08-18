@@ -22,4 +22,4 @@ RUN apt-get update && \
 RUN pip install dbt-sqlserver
 
 # Set the entrypoint to bash
-ENTRYPOINT ["/bin/bash"] 
+ENTRYPOINT ["/bin/bash"]
