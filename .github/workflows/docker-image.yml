@@ -1,4 +1,4 @@
-name: Build and Push dbt-sqlserver Docker Image
+name: build-push-dbt-sqlserver
 
 on:
   push:
